@@ -1,4 +1,4 @@
-from flask import Flask, escape,request, render_template, redirect
+from flask import Flask, request, render_template, redirect
 import csv
 
 app = Flask(__name__)
